@@ -8,5 +8,10 @@
         "name": "jovo-plugin-raven",
         "description": "Jovo plugin that sends errors to a Sentry server using Raven",
         "githubUrl": "https://github.com/cellular/jovo-plugin-raven"
+    },
+    {
+        "name": "jovo-plugin-ssml",
+        "description": "Jovo Plugin to supercharge the SpeechBuilder",
+        "githubUrl": "https://github.com/cellular/jovo-plugin-ssml"
     }
 ]
