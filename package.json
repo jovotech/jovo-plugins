@@ -1,0 +1,27 @@
+{
+  "name": "jovo-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-readme.js",
+  "scripts": {
+    "docs": "node update-readme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jovotech/jovo-plugins.git"
+  },
+  "keywords": [
+    "jovo",
+    "plugin"
+  ],
+  "author": "Jovo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jovotech/jovo-plugins/issues"
+  },
+  "homepage": "https://github.com/jovotech/jovo-plugins#readme",
+  "devDependencies": {
+    "markdown-magic": "^0.1.23"
+  }
+}
