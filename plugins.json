@@ -1,13 +1,11 @@
 [
     {
         "name": "jovo-plugin-slack-error-log",
-        "title": "Slack Error Plugin",
         "description": "A Jovo plugin to automatically send error messages to a Slack webhook",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-slack-error"
     },
     {
         "name": "jovo-plugin-raven",
-        "title": "Sentry integration for the Jovo Framework",
         "description": "Jovo plugin that sends errors to a Sentry server using Raven",
         "githubUrl": "https://github.com/cellular/jovo-plugin-raven"
     }
