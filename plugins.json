@@ -2,26 +2,31 @@
     {
         "name": "jovo-plugin-slack-error-log",
         "description": "A Jovo plugin to automatically send error messages to a Slack webhook",
+        "thumbnail": "slack-error-log.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-slack-error"
     },
     {
         "name": "jovo-plugin-raven",
         "description": "Jovo plugin that sends errors to a Sentry server using Raven",
+        "thumbnail": "raven.png",
         "githubUrl": "https://github.com/cellular/jovo-plugin-raven"
     },
     {
         "name": "jovo-plugin-ssml",
         "description": "Jovo Plugin to supercharge the SpeechBuilder",
+        "thumbnail": "cellular-ssml.png",
         "githubUrl": "https://github.com/cellular/jovo-plugin-ssml"
     },
     {
         "name": "jovo-plugin-email-error",
         "description": "Jovo plugin to send errors as an email",
+        "thumbnail": "email-error.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-email-error"
     },
     {
         "name": "jovo-plugin-slack-canfulfill",
         "description": "Jovo plugin to automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook",
+        "thumbnail": "slack-canfulfill.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-slack-canfulfill"
     }
 ]
