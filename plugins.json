@@ -13,5 +13,15 @@
         "name": "jovo-plugin-ssml",
         "description": "Jovo Plugin to supercharge the SpeechBuilder",
         "githubUrl": "https://github.com/cellular/jovo-plugin-ssml"
+    },
+    {
+        "name": "jovo-plugin-email-error",
+        "description": "Jovo plugin to send errors as an email",
+        "githubUrl": "https://github.com/KaanKC/jovo-plugin-email-error"
+    },
+    {
+        "name": "jovo-plugin-slack-canfulfill",
+        "description": "Jovo plugin to automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook",
+        "githubUrl": "https://github.com/KaanKC/jovo-plugin-slack-canfulfill"
     }
 ]
