@@ -17,10 +17,11 @@ To add your plugin to the table below, fork the repo and add your plugin to the 
 <!-- AUTO-GENERATED-CONTENT:START (updatePluginTable) -->
 | Plugin |
 |:---------------------------|
-**[Email Error - `jovo-plugin-email-error`](https://github.com/KaanKC/jovo-plugin-email-error)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> Jovo plugin to send errors as an email |
+**[Canfulfill Slack - `jovo-plugin-canfulfill-slack`](https://github.com/KaanKC/jovo-plugin-canfulfill-slack)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> Jovo plugin to automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook |
+**[Error Email - `jovo-plugin-error-email`](https://github.com/KaanKC/jovo-plugin-error-email)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> Jovo plugin to send errors as an email |
+**[Error Slack - `jovo-plugin-error-slack`](https://github.com/KaanKC/jovo-plugin-error-slack)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> A Jovo plugin to automatically send error messages to a Slack webhook |
+**[Fallback Airtable - `jovo-plugin-fallback-airtable`](https://github.com/KaanKC/jovo-plugin-fallback-airtable)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> Jovo plugin to automatically store data from incoming Default Fallback Requests in an Airtable spreadsheet. |
 **[Raven - `jovo-plugin-raven`](https://github.com/cellular/jovo-plugin-raven)** <br/> by [cellular](http://github.com/cellular) <br/> Jovo plugin that sends errors to a Sentry server using Raven |
-**[Slack Canfulfill - `jovo-plugin-slack-canfulfill`](https://github.com/KaanKC/jovo-plugin-slack-canfulfill)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> Jovo plugin to automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook |
-**[Slack Error Log - `jovo-plugin-slack-error-log`](https://github.com/KaanKC/jovo-plugin-slack-error)** <br/> by [KaanKC](http://github.com/KaanKC) <br/> A Jovo plugin to automatically send error messages to a Slack webhook |
 **[Ssml - `jovo-plugin-ssml`](https://github.com/cellular/jovo-plugin-ssml)** <br/> by [cellular](http://github.com/cellular) <br/> Jovo Plugin to supercharge the SpeechBuilder |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
