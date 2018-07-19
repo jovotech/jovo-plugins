@@ -1,36 +1,36 @@
 [
     {
-        "name": "jovo-plugin-error-slack",
+        "name": "error-slack",
         "description": "A Jovo plugin to automatically send error messages to a Slack webhook",
         "thumbnail": "slack-error-log.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-error-slack"
     },
     {
-        "name": "jovo-plugin-raven",
+        "name": "raven",
         "description": "Jovo plugin that sends errors to a Sentry server using Raven",
         "thumbnail": "raven.png",
         "githubUrl": "https://github.com/cellular/jovo-plugin-raven"
     },
     {
-        "name": "jovo-plugin-ssml",
+        "name": "cellular-ssml",
         "description": "Jovo Plugin to supercharge the SpeechBuilder",
         "thumbnail": "cellular-ssml.png",
         "githubUrl": "https://github.com/cellular/jovo-plugin-ssml"
     },
     {
-        "name": "jovo-plugin-error-email",
+        "name": "error-email",
         "description": "Jovo plugin to send errors as an email",
         "thumbnail": "email-error.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-error-email"
     },
     {
-        "name": "jovo-plugin-canfulfill-slack",
+        "name": "canfulfill-slack",
         "description": "Jovo plugin to automatically send data about incoming Alexa CanFulfillRequests to a Slack webhook",
         "thumbnail": "slack-canfulfill.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-canfulfill-slack"
     },
     {
-        "name": "jovo-plugin-fallback-airtable",
+        "name": "fallback-airtable",
         "description": "Jovo plugin to automatically store data from incoming Default Fallback Requests in an Airtable spreadsheet.",
         "thumbnail": "fallback-airtable.png",
         "githubUrl": "https://github.com/KaanKC/jovo-plugin-fallback-airtable"
